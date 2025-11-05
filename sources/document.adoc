@@ -24,33 +24,42 @@
 :fullname_2: Dan Mapes
 :role-description_2: leadership
 :contributor-position_2: Managing Director / Founder
-:fullname_3: Bastiaan den Braber
+:fullname_3: Michael Wadden
 :role-description_3: leadership
-:contributor-position_3: Director of Operations
-:fullname_4: George Percivall
+:contributor-position_3: Managing Director / Outreach
+:fullname_4: Capm Petersen
 :role-description_4: leadership
-:contributor-position_4: Distinguished Engineering Fellow
-:fullname_5: Dan Richardson
+:contributor-position_4: Director of Innovation & Strategy
+:fullname_5: Bastiaan den Braber
 :role-description_5: leadership
-:contributor-position_5: Director of Market Analysis
-:fullname_6: Dr. Sarah Grace Manski
+:contributor-position_5: Director of Operations
+:fullname_6: George Percivall
 :role-description_6: leadership
-:contributor-position_6: Senior Ethics Advisor
+:contributor-position_6: Distinguished Engineering Fellow
+:fullname_7: Dr. Jacqueline Hynes
+:role-description_7: leadership
+:contributor-position_7: Research Engineer
+:fullname_8: Dan Richardson
+:role-description_8: leadership
+:contributor-position_8: Director of Market Analysis
+:fullname_9: Dr. Sarah Grace Manski
+:role-description_9: leadership
+:contributor-position_9: Senior Ethics Advisor
 :comment: [backcover] participants list below
-:fullname_7: Markus Sabadello (lead editor)
-:fullname_8: Kurt Cagle 
-:fullname_9: Scott Carroll
-:fullname_10: Bastiaan den Braber
-:fullname_11: Stephane Fellah 
-:fullname_12: Jacqueline Hynes 
-:fullname_13: George Percivall
-:fullname_14: Christine Perey
-:fullname_15: Capm Petersen
-:fullname_16: Reese Plews
-:fullname_17: Gabriel René
-:fullname_18: Lior Saar
-:fullname_19: Hari Thiruvengada
-:fullname_20: Ronald Tse
+:fullname_10: Markus Sabadello (lead editor)
+:fullname_11: Kurt Cagle
+:fullname_12: Scott Carroll
+:fullname_13: Bastiaan den Braber
+:fullname_14: Stephane Fellah
+:fullname_15: Jacqueline Hynes
+:fullname_16: George Percivall
+:fullname_17: Christine Perey
+:fullname_18: Capm Petersen
+:fullname_19: Reese Plews
+:fullname_20: Gabriel René
+:fullname_21: Lior Saar
+:fullname_22: Hari Thiruvengada
+:fullname_23: Ronald Tse
 
 include::sections/00-abstract.adoc[]
 
