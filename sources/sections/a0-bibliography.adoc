@@ -36,14 +36,14 @@ span:docid.w3c[W3C CG Data Integrity]
 
 * [[[RFC8785,RFC 8785]]]
 
-* [[[SWIDS-AND-SWID-DOCUMENTS,SWF 3:2025 (0.1.0)]]]
+* [[[SWIDS-AND-SWID-DOCUMENTS,SWF 4:2025 (0.1.0)]]]
 span:title[SWIDs and SWID Documents]
 span:uri.citation[https://spatial-web-foundation.github.io/swid-document-spec/]
 span:organization[Spatial Web Foundation]
 span:givenname[Markus] span:surname[Sabadello]
 span:date[2025-06-20]
 span:note[Status: Draft]
-span:docid[SWF 3:2025 (0.1.0)]
+span:docid[SWF 4:2025 (0.1.0)]
 
 * [[[ISO8601,ISO 8601 (all parts)]]]
 
